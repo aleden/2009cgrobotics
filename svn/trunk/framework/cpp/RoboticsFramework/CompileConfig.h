@@ -1,0 +1,4 @@
+#pragma once
+
+//#define ROBO_ENDIAN ROBO_LITTLE_ENDIAN
+//#define ROBO_ENDIAN ROBO_BIG_ENDIAN
